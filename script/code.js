@@ -10,4 +10,4 @@ console.log(numberVar*5);
 const firstName01 = "Nizaamo";
 firstName01 = "Nightowl";
 
-//Yes I got an error.
+//Yes I got an error because const value does not change.
